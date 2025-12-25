@@ -1,0 +1,6 @@
+Apple,100
+Banana,50
+Apple,200
+kiwi,100
+guava,80
+kiwi,200
